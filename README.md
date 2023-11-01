@@ -2,6 +2,6 @@
 ## 1. Web Application 
 
 Thus to do
-![Kiku](images/Kiku.jpg)
+![img](images/img.jpg)
 
 
